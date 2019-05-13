@@ -18,6 +18,8 @@ def
     "fizzbuzz"
   elsif int % 5 == 0
      "buzz"
-     elsif
+     elsif int % 3 == 0 
+      "fizz"
+   else
   end
 end
