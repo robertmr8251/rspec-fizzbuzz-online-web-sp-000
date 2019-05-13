@@ -3,9 +3,9 @@ def
   if int % 3 == 0 && % 5 == 0
     "fizzbuzz"
   elsif int % 5 == 0
-     "buzz"
+     "Buzz"
      elsif int % 3 == 0 
-      "fizz"
+      "Fizz"
    else
   end
 end
